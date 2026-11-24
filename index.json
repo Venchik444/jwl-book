@@ -1,7 +1,18 @@
 {
 	"backstory": [
-		"backstory-1.txt",
-		"backstory-2.txt",
-		"backstory-3.txt"
+		{
+			"name":"Второй сын - идеальный сын",
+			"file":"backstory-1.txt"
+		},
+		{               
+                        "name":"За пределами дома",
+                        "file":"backstory-2.txt"
+                },
+		{               
+                        "name":"УдПМ",
+                        "file":"backstory-3.txt"
+                }
+
+
 	]
 }
