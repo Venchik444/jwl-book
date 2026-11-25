@@ -2,17 +2,53 @@
 	"backstory": [
 		{
 			"name":"Второй сын - идеальный сын",
-			"file":"backstory-1.txt"
+			"file":"chapter-1.txt"
 		},
 		{               
-                        "name":"За пределами дома",
-                        "file":"backstory-2.txt"
-                },
+			"name":"За пределами дома",
+			"file":"chapter-2.txt"
+		},
 		{               
-                        "name":"УдПМ",
-                        "file":"backstory-3.txt"
-                }
-
-
+			"name":"УдПМ",
+			"file":"chapter-3.txt"
+		},
+		{
+			"name":"Между Мирами",
+			"file":"chapter-4.txt"
+		}
+	],
+	"mainstory": [
+		{
+			"name":"Возвращение",
+			"file":"chapter-5.txt"
+		},
+		{
+			"name":"Предательство",
+			"file":"chapter-6.txt"
+		},
+		{
+			"name":"Новые знакомые",
+			"file":"chapter-7.txt"
+		},
+		{
+			"name":"Прототип ЗаЛОУ 001",
+			"file":"chapter-8.txt"
+		},
+		{
+			"name":"Комплекс",
+			"file":"chapter-9.txt"
+		},
+		{
+			"name":"Перелом",
+			"file":"chapter-10.txt"
+		},
+		{
+			"name":"Новый напарник",
+			"file":"chapter-11.txt"
+		},
+		{
+			"name":"Между делом",
+			"file":"chapter-12.txt"
+		}
 	]
 }
