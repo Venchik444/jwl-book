@@ -1,54 +1,86 @@
 {
-	"backstory": [
-		{
-			"name":"Второй сын - идеальный сын",
-			"file":"chapter-1.txt"
-		},
-		{               
-			"name":"За пределами дома",
-			"file":"chapter-2.txt"
-		},
-		{               
-			"name":"УдПМ",
-			"file":"chapter-3.txt"
-		},
-		{
-			"name":"Между Мирами",
-			"file":"chapter-4.txt"
-		}
-	],
-	"mainstory": [
-		{
-			"name":"Возвращение",
-			"file":"chapter-5.txt"
-		},
-		{
-			"name":"Предательство",
-			"file":"chapter-6.txt"
-		},
-		{
-			"name":"Новые знакомые",
-			"file":"chapter-7.txt"
-		},
-		{
-			"name":"Прототип ЗаЛОУ 001",
-			"file":"chapter-8.txt"
-		},
-		{
-			"name":"Комплекс",
-			"file":"chapter-9.txt"
-		},
-		{
-			"name":"Перелом",
-			"file":"chapter-10.txt"
-		},
-		{
-			"name":"Новый напарник",
-			"file":"chapter-11.txt"
-		},
-		{
-			"name":"Между делом",
-			"file":"chapter-12.txt"
-		}
-	]
+  "book": {
+    "name": "Между Мирами",
+    "content": {
+      "backstory": [
+        {
+          "name": "Второй сын - идеальный сын",
+          "file": "chapter-1.txt"
+        },
+        {
+          "name": "За пределами дома",
+          "file": "chapter-2.txt"
+        },
+        {
+          "name": "УдПМ",
+          "file": "chapter-3.txt"
+        },
+        {
+          "name": "Между Мирами",
+          "file": "chapter-4.txt"
+        }
+      ],
+      "mainstory": [
+        {
+          "name": "Возвращение",
+          "file": "chapter-5.txt"
+        },
+        {
+          "name": "Предательство",
+          "file": "chapter-6.txt"
+        },
+        {
+          "name": "Новые знакомые",
+          "file": "chapter-7.txt"
+        },
+        {
+          "name": "Прототип ЗаЛОУ 001",
+          "file": "chapter-8.txt"
+        },
+        {
+          "name": "Комплекс",
+          "file": "chapter-9.txt"
+        },
+        {
+          "name": "Перелом",
+          "file": "chapter-10.txt"
+        },
+        {
+          "name": "Новый напарник",
+          "file": "chapter-11.txt"
+        },
+        {
+          "name": "Между делом",
+          "file": "chapter-12.txt"
+        }
+      ]
+    }
+  },
+  "book": {
+    "name": "Пепель Прошлого",
+    "content": {
+      "mainstory": [
+        {
+          "name": "Начало",
+          "file": "pepel-1.txt"
+        },
+        {
+          "name": "Шах",
+          "file": "pepel-2.txt"
+        },
+        {
+          "name": "Восстановление",
+          "file": "pepel-3.txt"
+        },
+        {
+          "name": "Миссия - невыполнение",
+          "file": "pepel-4.txt"
+        },
+        {
+          "name": "Переезд",
+          "file": "pepel-5.txt"
+        }
+      ]
+    }
+  }
 }
